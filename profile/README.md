@@ -1,6 +1,4 @@
-# Los-Ext  
-
-- Nothing much just another fork of LineageOS
-- Personal Project, Frameworks_base is private (I am tired of people renaming this forked ROM)
-- If you want to build it, message on telegram with your github username
-- Commits are mostly kanged from these [ROMs](https://github.com/Los-Ext/.github/blob/main/credits.md)
+# LineageOS-Ext
+- It is a Personal Project, If you want to build it, DM me on telegram with your github username. :)
+- The Frameworks/base repo is no longer public as I am tired of some people renaming this forked ROM.
+- Commits are mostly kanged from these [ROMs](https://github.com/Los-Ext/.github/blob/main/credits.md), thanks a lot to all of them for there amazing work.
