@@ -3,7 +3,7 @@
 - [AOSPA](https://github.com/AOSPA)
 - [AxionAOSP](https://github.com/AxionAOSP)
 - [crDroid Android](https://github.com/crdroidandroid)
-- [DerpFest AOSP](https://github.com/DerpFest-AOSP) (Launcher3)
+- [DerpFest AOSP](https://github.com/DerpFest-AOSP)
 - [Flamingo-OS](https://github.com/Flamingo-OS)
 - [Lunaris-AOSP](https://github.com/Lunaris-AOSP)
 - [minaripenguin](https://github.com/minaripenguin)
